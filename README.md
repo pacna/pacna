@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Paul's github stats](https://github-readme-stats.vercel.app/api?username=pacna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacna&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacna&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
