@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Paul! 👋
 
 <!--
 **pacna/pacna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [sdl-ulam-spiral](https://github.com/pacna/sdl-ulam-spiral)
+
+[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=pacna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacna&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
