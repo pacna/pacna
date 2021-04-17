@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [memberserver](https://github.com/dfirebaugh/memberserver)
+- 🔭 I’m currently working on [memberdashboard](https://github.com/HackRVA/memberdashboard)
 
 [![Paul's github stats](https://github-readme-stats.vercel.app/api?username=pacna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
