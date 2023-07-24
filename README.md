@@ -1,4 +1,4 @@
-### Hi there, I'm Paul! 👋
+## Hi there, I'm Paul! 👋
 
 <!--
 **pacna/pacna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [memberserver](https://github.com/dfirebaugh/memberserver)
+-   🔭 I’m currently working on [memberdashboard](https://github.com/HackRVA/memberdashboard); [webcomics](https://github.com/pacna/webcomics)
 
-[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=pacna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### ⚙️ &nbsp;GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacna&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=pacna&show_icons=true&theme=monokai&count_private=true)](https://github.com/pacna)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacna&theme=monokai&layout=donut-vertical&langs_count=6&hide=html,scss,c,javascript)](https://github.com/pacna)
