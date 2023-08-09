@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--   🔭 I’m currently working on [memberdashboard](https://github.com/HackRVA/memberdashboard); [webcomics](https://github.com/pacna/webcomics)
+-   🔭 I’m currently working on [webcomics](https://github.com/pacna/webcomics)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
