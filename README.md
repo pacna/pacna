@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--   🔭 I’m currently working on [webcomics](https://github.com/pacna/webcomics)
+-   🔭 I’m currently working on [memberdashboard](https://github.com/HackRVA/memberdashboard)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=pacna&show_icons=true&theme=monokai&count_private=true)](https://github.com/pacna)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacna&theme=monokai&layout=donut-vertical&langs_count=6&hide=html,scss,c,javascript)](https://github.com/pacna)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacna&theme=monokai&layout=donut)](https://github.com/pacna)
